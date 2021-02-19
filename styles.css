@@ -16,7 +16,7 @@ body {
   }
   
   .w {
-    background-image: url("images/tom1.png");
+    background: url("images/tom1.png");
   }
   
   .a {
